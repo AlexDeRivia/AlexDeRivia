@@ -14,7 +14,7 @@
 
 ### 🚀 Sobre mí
 - 🔭 Actualmente soy estudiante de Ingeniería de Sistemas e Informática
-- 👯 Buscando colaborar en proyectos innovadores
+- 🏗️ Con experiencia en desarrollo backend y frontend, utilizando tecnologías como Python, Java, PHP, Django, Spring Boot y Laravel
 - 📫 Contacto: alexalcantaraz1809@gmail.com
 
 
