@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+perfil!;Soy+Alex+Alcantara&center=true&color=3498db">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Bienvenido+a+mi+perfil!;Soy+Alex+Alcantara" alt="Headline" />
 </div>
 
 <h2 align="center">🎓 Estudiante de Ingeniería de Sistemas 🎓</h2>
@@ -9,13 +10,15 @@
   
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 🚀 Sobre mí
 - 🔭 Actualmente soy estudiante de Ingeniería de Sistemas e Informática
 - 👯 Buscando colaborar en proyectos innovadores
 - 📫 Contacto: alexalcantaraz1809@gmail.com
----
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 🛠️ Tecnologías y Herramientas
 
