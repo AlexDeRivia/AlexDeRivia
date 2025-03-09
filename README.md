@@ -19,7 +19,8 @@
 <br><br>
 
 - 🔭 Actualmente soy estudiante de Ingeniería de Sistemas e Informática
-- 🏗️ Con experiencia en desarrollo backend y frontend
+- 🏗️ Con experiencia en diseño y desarrollo de software
+- 🌐 Gestión de bases de datos relacionales
 - 📫 Contacto: alexalcantaraz1809@gmail.com
 
 
