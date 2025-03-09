@@ -6,7 +6,7 @@
 <h2 align="center">🎓 Estudiante de Ingeniería de Sistemas 🎓</h2>
 
 <p align="center">
-  <a href="https://pe.linkedin.com/in/alex-alcantara-zuñiga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/alex-alcantara-zuniga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   
 </p>
 
