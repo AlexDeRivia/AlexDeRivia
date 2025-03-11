@@ -60,6 +60,7 @@
   <p align="left">
     <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-%23F1C40F.svg?style=for-the-badge&logo=mysql&logoColor=black"/>
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   </p>
 
 - **Herramientas y Plataformas**:
