@@ -1,5 +1,4 @@
 <div align="center">
-  
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Bienvenido+a+mi+perfil!;Soy+Alex+Alcantara" alt="Headline" />
 </div>
 
@@ -7,7 +6,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alex-alcantara-zuniga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -18,22 +16,23 @@
 
 <br><br>
 
-- 🔭 Actualmente soy estudiante de Ingeniería de Sistemas e Informática
-- 🏗️ Con experiencia en diseño y desarrollo de software
-- 🌐 Gestión de bases de datos relacionales
+- 🔭 Actualmente soy estudiante de Ingeniería de Sistemas e Informática  
+- 🏗️ Con experiencia en diseño y desarrollo de software  
+- 📱 Desarrollo de aplicaciones móviles con Android Studio y Kotlin  
+- ☁️ Implementación de proyectos con Firebase (Realtime Database, Authentication, etc.)  
+- 🌐 Gestión de bases de datos relacionales  
 - 📫 Contacto: alexalcantaraz1809@gmail.com
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologías y Herramientas
-
 
 - **Lenguajes de Programación**:
 
   <p align="left">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=database&logoColor=white"/>
@@ -69,17 +68,14 @@
     <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  </p>
-  
-  <p align="left">
     <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
     <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white"/>
   </p>
 
+- **Desarrollo Móvil y Servicios en la Nube**:
 
-
- 
-
-</p>
-
+  <p align="left">
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  </p>
