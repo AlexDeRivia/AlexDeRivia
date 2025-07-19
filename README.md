@@ -17,9 +17,7 @@
 <br><br>
 
 - 🔭 Actualmente soy estudiante de Ingeniería de Sistemas e Informática  
-- 🏗️ Con experiencia en diseño y desarrollo de software  
-- 📱 Desarrollo de aplicaciones móviles con Android Studio y Kotlin  
-- ☁️ Implementación de proyectos con Firebase (Realtime Database, Authentication, etc.)  
+- 🏗️ Con experiencia en diseño y desarrollo de software
 - 🌐 Gestión de bases de datos relacionales  
 - 📫 Contacto: alexalcantaraz1809@gmail.com
 
