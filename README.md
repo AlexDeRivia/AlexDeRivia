@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Bienvenido+a+mi+perfil!;Soy+Alex+Alcantara" alt="Headline" />
 </div>
 
-<h2 align="center">🎓 Estudiante de Ingeniería de Sistemas 🎓</h2>
+<h2 align="center">🎓 Estudiante de Ingeniería de Sistemas e Informática 🎓</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alex-alcantara-zuniga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
