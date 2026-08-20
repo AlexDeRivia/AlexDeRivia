@@ -1,98 +1,79 @@
-<!--
-  README de perfil — Alex Alcantara
-  Reemplaza TU_USUARIO por tu usuario real de GitHub en todos los enlaces marcados.
--->
-
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=6FDA44&center=true&vCenter=true&width=560&lines=Alex+Alcantara;Ingeniero+de+Sistemas+e+Inform%C3%A1tica;Construyo+software+que+resuelve+problemas+reales" alt="Typing SVG" />
-
-<sub>Lima, Perú · Backend & bases de datos · Abierto a nuevas oportunidades</sub>
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Bienvenido+a+mi+perfil!;Soy+Alex+Alcantara" alt="Headline" />
 </div>
 
-<br>
+<h2 align="center">🎓 Ingeniería de Sistemas e Informática 🎓</h2>
 
-## Sobre mí
+<p align="center">
+  <a href="https://www.linkedin.com/in/alex-alcantara-zuniga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-No colecciono tecnologías, las uso. Me interesa el software que se sostiene en producción: APIs bien diseñadas, bases de datos que no se caen a la primera carga real, y código que otra persona pueda entender sin preguntarme a mí primero.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-- 🏗️ Diseño y desarrollo de software end-to-end — de la base de datos a la API
-- 🗄️ Modelado y optimización de bases de datos relacionales (PostgreSQL, MySQL)
-- 🎯 Foco actual: arquitectura backend con Spring Boot / Django y despliegues con Docker
-- 📫 [alexalcantaraz1809@gmail.com](mailto:alexalcantaraz1809@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alex-alcantara-zuniga/)
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
-<br>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-## Proyectos destacados
+<br><br>
 
-> Reemplaza esto con 2-3 repos reales — es lo que más pesa para quien visita tu perfil.
+- 🔭 Egresado de Ingeniería de Sistemas e Informática  
+- 🏗️ Con experiencia en diseño y desarrollo de software
+- 🌐 Gestión de bases de datos relacionales  
+- 📫 Contacto: alexalcantaraz1809@gmail.com
 
-| Proyecto | Qué hace | Stack |
-|---|---|---|
-| [`nombre-proyecto-1`](https://github.com/TU_USUARIO/nombre-proyecto-1) | Una línea: el problema que resuelve, no solo qué es | Spring Boot · PostgreSQL |
-| [`nombre-proyecto-2`](https://github.com/TU_USUARIO/nombre-proyecto-2) | Una línea concreta con el resultado o el reto técnico | Django · Docker |
-| [`nombre-proyecto-3`](https://github.com/TU_USUARIO/nombre-proyecto-3) | Qué aprendiste o qué lo hace distinto de un tutorial | Laravel · MySQL |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologías y Herramientas
 
-## Stack
+- **Lenguajes de Programación**:
 
-<table>
-<tr>
-<td valign="top" width="25%">
+  <p align="left">
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=database&logoColor=white"/>
+  </p>
 
-**Lenguajes**
-- Python
-- Java
-- Kotlin
-- PHP
-- JavaScript
-- SQL
+- **Lenguajes de Marcado y Estilo**:
 
-</td>
-<td valign="top" width="25%">
+  <p align="left">
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  </p>
 
-**Frameworks**
-- Spring Boot
-- Django
-- Laravel
-- Flask
+- **Frameworks**:
 
-</td>
-<td valign="top" width="25%">
+  <p align="left">
+    <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+  </p>
 
-**Datos**
-- PostgreSQL
-- MySQL
-- MongoDB
+- **Bases de Datos**:
 
-</td>
-<td valign="top" width="25%">
+  <p align="left">
+    <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-%23F1C40F.svg?style=for-the-badge&logo=mysql&logoColor=black"/>
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  </p>
 
-**Herramientas**
-- Git / GitHub
-- Docker
-- Firebase
-- Power BI · Jira
+- **Herramientas y Plataformas**:
 
-</td>
-</tr>
-</table>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white"/>
+  </p>
 
-<br>
+- **Desarrollo Móvil y Servicios en la Nube**:
 
-## Actividad
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent&hide_border=true&hide_title=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&hide_border=true&hide_title=true" height="165" alt="Top languages" />
-
-</div>
-
-<br>
-
-<div align="center">
-<sub>Si quieres hablar de una idea, una vacante o simplemente de código — mi bandeja está abierta.</sub>
-</div>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  </p>
