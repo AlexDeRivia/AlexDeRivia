@@ -8,8 +8,11 @@ Desarrollador full stack. Construyo aplicaciones web y APIs para digitalizar pro
 ## Stack
 
 `Backend` · Java, Spring Boot, PHP, Laravel, Python, Django, APIs REST<br>
+
 `Frontend` · JavaScript, TypeScript, React, Next.js, Tailwind CSS<br>
+
 `Datos` · MySQL, PostgreSQL, SQL Server, scikit-learn, Pandas<br>
+
 `Herramientas` · Git, GitHub, Docker, Maven, Vite, GCP
 
 **Ahora.** Exploro cómo integrar IA en aplicaciones y en el proceso de desarrollo.
