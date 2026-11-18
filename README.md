@@ -18,4 +18,4 @@ Desarrollador full stack. Construyo aplicaciones web y APIs para digitalizar pro
 
 ---
 
-**[Portafolio](https://alexalcantara.dev)** · [LinkedIn](https://www.linkedin.com/in/alex-alcantara-zuniga/)
+**[Portfolio](https://alexalcantara.dev)** · [LinkedIn](https://www.linkedin.com/in/alex-alcantara-zuniga/)
