@@ -3,7 +3,7 @@
   <img src="./terminal-claro.svg" width="760" alt="Alex Alcantara">
 </picture>
 
-Desarrollador full stack. Construyo aplicaciones web y APIs para digitalizar procesos.
+Ingeniero de sistemas & desarrollador full stack. Construyo aplicaciones y APIs para digitalizar procesos.
 
 ## Stack
 
